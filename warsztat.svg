@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <rect width="900" height="480" fill="#dddddd"/>
+  <rect x="90" y="80" width="720" height="330" fill="#fafafa" stroke="#555" stroke-width="8"/>
+  <rect x="160" y="130" width="580" height="210" fill="#c7c7c7" stroke="#777" stroke-width="5"/>
+  <line x1="160" y1="180" x2="740" y2="180" stroke="#999" stroke-width="4"/>
+  <line x1="160" y1="230" x2="740" y2="230" stroke="#999" stroke-width="4"/>
+  <path d="M250 320 L300 250 L590 250 L650 320 Z" fill="#b30000" stroke="#333" stroke-width="6"/>
+  <rect x="315" y="265" width="250" height="55" fill="#9fd0e0" stroke="#333" stroke-width="4"/>
+  <circle cx="320" cy="330" r="45" fill="#333"/>
+  <circle cx="580" cy="330" r="45" fill="#333"/>
+  <circle cx="320" cy="330" r="20" fill="#aaa"/>
+  <circle cx="580" cy="330" r="20" fill="#aaa"/>
+  <text x="450" y="55" text-anchor="middle" font-family="Arial" font-size="30" fill="#333">AUTO-SERWIS</text>
+</svg>
